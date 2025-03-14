@@ -1,5 +1,5 @@
 {
-  "name": "meteor-app",
+  "name": "app",
   "private": true,
   "scripts": {
     "start": "meteor run",
@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "@anush008/tokenizers": "^0.0.0",
-    "@babel/runtime": "^7.20.7",
-    "meteor-node-stubs": "^1.2.5",
+    "@babel/runtime": "^7.23.5",
+    "meteor-node-stubs": "^1.2.12",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
